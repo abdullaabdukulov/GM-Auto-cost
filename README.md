@@ -7,6 +7,15 @@ The original price of the GM car company in Uzbekistan.
 I used models based on machine learning. This model works with 89% accuracy. 
 I found the original cost of the Malibu in this project. It costs $26,455.
 
+### parameters
+### 1. 'name' – malibu
+### 2. 'engine size' – 185
+### 3. 'curb weight' – 1531
+### 4. 'horsepower' – 160
+### 5. 'car width' – 69.2
+### 6. 'drive wheels' - awd'
+### 7. 'engine-location' – 'front'
+
 ## Installation
 ```
 $ pip install -r requirements.txt
