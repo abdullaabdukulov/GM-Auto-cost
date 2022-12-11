@@ -129,7 +129,7 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 MODELS = os.path.join(BASE_DIR, 'ml/models')
 
 CORS_ALLOWED_ORIGINS = [
-    'http://localhost:9090'
+    'http://localhost:8080'
 
 ]
 CORS_ALLOW_HEADERS = default_headers + (
